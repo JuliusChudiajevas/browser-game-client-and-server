@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "watch": true,
+        "lib": ["dom", "es6"],
+        "module": "es6",
+        "rootDir": "./",
+        "outDir": "./build",
+        // "esModuleInterop": true
+        // "strict": true
+    }
+}
